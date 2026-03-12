@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pdfplumber
+pymupdf
+sentence-transformers
+qdrant-client
+groq
+python-dotenv
+pydantic
